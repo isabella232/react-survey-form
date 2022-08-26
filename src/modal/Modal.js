@@ -1,10 +1,6 @@
 import React, { useState } from "react";
 import {
   MDBBtn,
-  MDBCard,
-  MDBCardBody,
-  MDBCardFooter,
-  MDBCol,
   MDBContainer,
   MDBIcon,
   MDBModal,
@@ -15,7 +11,6 @@ import {
   MDBModalHeader,
   MDBModalTitle,
   MDBRadio,
-  MDBRow,
   MDBTextArea,
 } from "mdb-react-ui-kit";
 

@@ -1,18 +1,14 @@
 import React from "react";
-import {
-  MDBBtn,
-  MDBCol,
-  MDBContainer,
-  MDBRadio,
-  MDBRow,
-} from "mdb-react-ui-kit";
+import { MDBBtn, MDBContainer, MDBRadio } from "mdb-react-ui-kit";
 
 export default function Scale() {
   return (
     <MDBContainer className="d-flex justify-content-center">
-      <div class="mx-0 mx-sm-auto">
+      <div className="mx-0 mx-sm-auto">
         <form className="bg-white mt-3" action="">
-          <p className="fw-bold text-center">How satisfied are you with our product?</p>
+          <p className="fw-bold text-center">
+            How satisfied are you with our product?
+          </p>
 
           <div className="text-center">
             <div className="d-inline mx-3">Bad</div>

@@ -1,8 +1,7 @@
 {
-  "name": "mdb-react-template",
-  "version": "4.0.0",
-  "description": "template for mdb-react-ui-kit",
-  "private": true,
+  "name": "@mdbootstrap/react-survey-form",
+  "version": "1.0.0",
+  "description": "React Survey forms built with Bootstrap 5 and HTML. A variety of pre-made surveys, including multiple choice, questionnaire, checkbox survey, modal survey & more.",
   "dependencies": {
     "mdb-react-ui-kit": "^4.0.0",
     "react": "^18.1.0",
@@ -11,6 +10,11 @@
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mdbootstrap/react-survey-form.git"
+  },
+  "homepage": "https://mdbootstrap.com/docs/react/extended/bootstrap-survey-form",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
@@ -18,6 +22,10 @@
     "eject": "react-scripts eject"
   },
   "keywords": [
+    "bootstrap",
+    "bootstrap5",
+    "responsive-design",
+    "bootstrap-template",
     "template",
     "react"
   ],

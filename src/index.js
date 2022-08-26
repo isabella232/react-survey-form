@@ -12,6 +12,7 @@ import Modal from './modal/Modal';
 import Rating from './rating/Rating';
 import Scale from './scale/Scale';
 import Ranking from './ranking/Ranking';
+import Range from './range/Range';
 
 const container = document.getElementById("root");
 const root = createRoot(container);
@@ -29,7 +30,7 @@ root.render(
         <Route path="/rating" element={<Rating />} />
         <Route path="/scale" element={<Scale />} />
         <Route path="/ranking" element={<Ranking />} />
-        {/* <Route path="/range" element={<Range />} /> */}
+        <Route path="/range" element={<Range />} />
       </Routes>
     </BrowserRouter>
   </React.StrictMode>

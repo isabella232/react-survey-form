@@ -7,7 +7,6 @@ import {
   MDBCol,
   MDBContainer,
   MDBIcon,
-  MDBRadio,
   MDBRow,
   MDBTextArea,
 } from "mdb-react-ui-kit";
